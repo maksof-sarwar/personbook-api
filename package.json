@@ -1,0 +1,17 @@
+{
+  "name": "crud-api--",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "doc": "apidoc -i ./server -o ./apidoc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.10",
+    "path": "^0.12.7"
+  }
+}
